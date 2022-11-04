@@ -3,7 +3,7 @@
 - **Backend:** Nest.js, Express, Ruby on Rails, Spring
 - **Frontend:** Vue.js, Quasar, Next.js
 - **Databases:** MySQL, PostgreeSQL, CouchDB, InfluxDB
-- **Tooling:** nvim + Tmux(IDE), docker, git, jenkins, Postman
+- **Tooling:** nvim + Tmux(IDE), docker, git, gitlab ci/cd, Postman
 - 📫 How to reach me:
   - Linkedin: www.linkedin.com/in/jonas-angel
   - Twitter: @Jonas_Angel_ 
