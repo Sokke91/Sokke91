@@ -1,7 +1,9 @@
-## Hi My name ist Jonas Angel
+### Main tech stack
 
-
-
+- Backend: Nest.js, express, Ruby on Rails, Spring
+- Frontend: Vue.js, Quasar, Next.js
+- Databases: MySQL, PostgreeSQL, CouchDB, InfluxDB
+- Tooling: nvim(IDE), docker, git, jenkins, Postman
 
 <!--
 **Sokke91/Sokke91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
