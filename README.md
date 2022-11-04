@@ -4,7 +4,9 @@
 - **Frontend:** Vue.js, Quasar, Next.js
 - **Databases:** MySQL, PostgreeSQL, CouchDB, InfluxDB
 - **Tooling:** nvim + Tmux(IDE), docker, git, jenkins, Postman
-
+- 📫 How to reach me:
+  - Linkedin: www.linkedin.com/in/jonas-angel
+  - Twitter: @Jonas_Angel_ 
 <!--
 **Sokke91/Sokke91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
