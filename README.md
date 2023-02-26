@@ -1,6 +1,6 @@
 ### Tech stack
 
-- **Backend:** Nest.js, Express, Ruby on Rails, Spring
+- **Backend:** Nest.js, Express, Ruby on Rails, Go
 - **Frontend:** Vue.js, Quasar, Next.js, Electron
 - **Databases:** MySQL, PostgreeSQL, CouchDB, InfluxDB
 - **Tooling:** nvim + Tmux(IDE), docker, git, gitlab ci/cd, Postman
